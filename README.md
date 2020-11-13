@@ -1,8 +1,20 @@
 ### Hi there 👋
 
-<!--
-**mrockingham/mrockingham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Hi, I'm Mike. I'm a Full Stack Developer with a passion for designing and developiong beauify applicationns.
+
+Skills:
+  Front-End: HTHL, CSS, JS, REACT, LESS
+  Back-End:   nodeJS, SQL, mongoDB, Firebase
+  
+Feel free to reach out to me: 
+Linkedin https://www.linkedin.com/in/michael-rockingham-b86629164/
+My Portfolio https://portfolio-iota-liard.vercel.app/
+
+
+
+My linkden
+  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
