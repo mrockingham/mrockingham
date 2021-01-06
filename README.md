@@ -10,15 +10,15 @@ Skills:
 Feel free to reach out to me: 
 
 
-Linkedin https://www.linkedin.com/in/michael-rockingham-b86629164/
+Linkedin: https://www.linkedin.com/in/michaelkrockingham/
 
-My Portfolio https://portfolio-iota-liard.vercel.app/
+My Portfolio: https://portfolio-iota-liard.vercel.app/
 
 
 
-My linkden
+
   
-Here are some ideas to get you started:
+Some of the projects I'm currently working on.
 
 - 🔭 I’m currently working on an upscale shopping app.
 - 🌱 I’m currently learning Three JS
